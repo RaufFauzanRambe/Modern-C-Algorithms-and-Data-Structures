@@ -101,5 +101,5 @@ Please see the [Wiki](https://github.com/username/project/wiki) for detailed con
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ```
-Ra’uf mau aku buatkan paket lengkap itu sekarang?
+
 ```
